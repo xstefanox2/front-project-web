@@ -1,0 +1,6 @@
+.auth-container {
+  height: 100%;
+  width: 100%;
+  background-image: url('../../assets/images/background.jpg');
+  background-size: cover;
+}
